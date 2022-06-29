@@ -1,6 +1,7 @@
 # 💫 About Me:
 Software + Web Developer | Problem Solving Wizard | Puzzle Queen
 <br>
+<br>
 🧩 Curious, analytical and strategic by nature. 
 <br>
 👯‍♀️ I enjoy refactoring code with scalability and accessibility in mind. 
