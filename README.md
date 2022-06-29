@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full Stack Engineer | Software + Web Developer | Problem Solving Wizard | Puzzle Queen
+Software + Web Developer | Problem Solving Wizard | Puzzle Queen
 <br>
 Curious, analytical and strategic by nature. 
 <br>
