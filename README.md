@@ -4,7 +4,7 @@ Software + Web Developer | Problem Solving Wizard | Puzzle Queen
 <br>
 🧩 Curious, analytical and strategic by nature. 
 <br>
-👯‍♀️ I enjoy refactoring code with scalability and accessibility in mind. 
+👯‍♀️ I love refactoring code with scalability and accessibility in mind. 
 <br>
 🌻 Outside of coding- you can find me reading, riding my bike, discovering new comic/game/book shops or just lounging outside with my Australian Shepherd, Gilly. 
 <br>
