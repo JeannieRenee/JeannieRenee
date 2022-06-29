@@ -9,6 +9,8 @@ Outside of coding- you can find me reading, riding my bike, discovering new comi
 <br>
 Oh, and ask me about the time I won Best Actress at a film festival for my role in an indie western film.
 <br>
+<br>
+<br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/JeannieBranstrator) 
 
 # 💻 Tech Stack:
