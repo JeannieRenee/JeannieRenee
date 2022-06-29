@@ -1,5 +1,6 @@
 # 💫 About Me:
-FullStack React Software Developer<br>
+Full Stack Engineer | Software + Web Developer | Problem Solving Wizard | Puzzle Queen
+<br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/JeannieBranstrator) 
 
 # 💻 Tech Stack:
