@@ -3,6 +3,8 @@ Fullstack Software + Web Developer | Problem Solving Wizard | Puzzle Queen
 <br>
 www.jeannie.dev
 <br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/JeannieBranstrator) 
+<br>
 <br>
 🧩 I'm curious, analytical and strategic by nature, and quick to recognize patterns. 
 <br>
@@ -13,4 +15,3 @@ www.jeannie.dev
 🤠 Ask me about the time I won Best Actress at a film festival for my role in an indie western film.
 <br>
 <br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/JeannieBranstrator) 
