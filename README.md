@@ -8,7 +8,7 @@ www.jeannie.dev
 <br>
 🧩  I'm curious, analytical and strategic by nature, and quick to recognize patterns. 
 <br>
-👯‍♀️  I enjoy writing code with scalability and accessibility in mind, with a passion for building well-designed and intuitive user interfaces. 
+👯‍♀️  I write code with scalability and accessibility in mind, with a passion for building well-designed and intuitive user interfaces. 
 <br>
 🌻  You can find me reading, riding my bike, discovering new comic/game/book shops or just lounging outside with my Australian Shepherd, Gilly. 
 <br>
