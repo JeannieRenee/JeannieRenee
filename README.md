@@ -2,9 +2,9 @@
 Full Stack Software + Web Developer | Problem Solving Wizard | Puzzle Queen
 <br>
 <br>
-[![Jeannie](https://img.shields.io/badge/-jeannie.dev-yellowgreen)](https://www.jeannie.dev) 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://linkedin.com/in/JeannieBranstrator) 
-[![Email](https://img.shields.io/badge/-gmail-orange)](mailto:jmbranstrator@gmail.com) 
+[![Jeannie](https://img.shields.io/badge/-jeannie.dev-yellowgreen?style=for-the-badge)](https://www.jeannie.dev) 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/JeannieBranstrator) 
+[![Email](https://img.shields.io/badge/-gmail-orange?style=for-the-badge&logo=gmail)](mailto:jmbranstrator@gmail.com) 
 <br>
 <br>
 🧩  I'm naturally curious, analytical, strategic, and quick to recognize patterns.
