@@ -6,7 +6,7 @@ www.jeannie.dev
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/JeannieBranstrator) 
 <br>
 <br>
-🧩  I'm naturally curious, analytical, strategic, and quick to recognize patterns.  
+🧩  I'm naturally curious, analytical, strategic, and quick to recognize patterns.
 <br>
 👯‍♀️  I write code with scalability and accessibility in mind, with a passion for building well-designed and intuitive user interfaces. 
 <br>
