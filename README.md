@@ -1,10 +1,12 @@
 # 💫 About Me:
-Software + Web Developer | Problem Solving Wizard | Puzzle Queen
+Fullstack Software + Web Developer | Problem Solving Wizard | Puzzle Queen
+<br>
+www.jeannie.dev
 <br>
 <br>
-🧩 Curious, analytical and strategic by nature. 
+🧩 I'm curious, analytical and strategic by nature, and quick to recognize patterns. 
 <br>
-👯‍♀️ I love refactoring code with scalability and accessibility in mind. 
+👯‍♀️ I enjoy writing code with scalability and accessibility in mind, with a passion for building well-designed and intuitive user interfaces. 
 <br>
 🌻 You can find me reading, riding my bike, discovering new comic/game/book shops or just lounging outside with my Australian Shepherd, Gilly. 
 <br>
@@ -12,5 +14,3 @@ Software + Web Developer | Problem Solving Wizard | Puzzle Queen
 <br>
 <br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/JeannieBranstrator) 
-
-
