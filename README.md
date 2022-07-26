@@ -1,7 +1,7 @@
 # 💫 About Me:
 Fullstack Software + Web Developer | Problem Solving Wizard | Puzzle Queen
 <br>
-www.jeannie.dev
+jeannie.dev
 <br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/JeannieBranstrator) 
 <br>
