@@ -5,7 +5,6 @@ www.jeannie.dev
 <br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/JeannieBranstrator) 
 <br>
-[![LinkedIn](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](jmbranstrator@gmail.com) 
 <br>
 🧩  I'm naturally curious, analytical, strategic, and quick to recognize patterns.
 <br>
