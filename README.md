@@ -1,12 +1,9 @@
 # 💫 About Me:
 Fullstack Software + Web Developer | Problem Solving Wizard | Puzzle Queen
 <br>
+<br>
 [![Jeannie](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.jeannie.dev) 
-<br>
-<br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/JeannieBranstrator) 
-<br>
-<br>
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://linkedin.com/in/JeannieBranstrator) 
 <br>
 <br>
