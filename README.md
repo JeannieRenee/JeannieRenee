@@ -10,7 +10,7 @@ www.jeannie.dev
 <br>
 👯‍♀️  I write code with scalability and accessibility in mind, with a passion for building well-designed and intuitive user interfaces. 
 <br>
-🌻  You can find me reading, riding my bike, discovering new comic/game/book shops or just lounging outside with my Australian Shepherd, Gilly. 
+🌻  You can find me reading, riding my bike, discovering new comic/game/book shops or just lounging outside with my aussie, Gilly. 
 <br>
 🤠  Ask me about the time I won Best Actress at a film festival for my role in an indie western film.
 <br>
