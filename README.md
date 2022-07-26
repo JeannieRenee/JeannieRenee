@@ -1,5 +1,5 @@
 # 💫 About Me:
-Fullstack Software + Web Developer | Problem Solving Wizard | Puzzle Queen
+Full Stack Software + Web Developer | Problem Solving Wizard | Puzzle Queen
 <br>
 <br>
 [![Jeannie](https://img.shields.io/badge/-jeannie.dev-yellowgreen)](https://www.jeannie.dev) 
