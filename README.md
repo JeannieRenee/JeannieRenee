@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me
 Full Stack Software + Web Developer | Problem Solving Wizard | Puzzle Queen
 <br>
 <br>
